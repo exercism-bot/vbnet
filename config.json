@@ -37,6 +37,17 @@
       ]
     },
     {
+      "slug": "leap",
+      "uuid": "9b1ce07f-05fb-4d01-b4cd-cf7a8799db2f",
+      "core": true,
+      "unlocked_by": null,
+      "difficulty": 1,
+      "topics": [
+        "conditionals",
+        "integers"
+      ]
+    },
+    {
       "slug": "bob",
       "uuid": "c26876c4-060e-4870-b20c-a4a3ebbfcf7c",
       "core": false,
